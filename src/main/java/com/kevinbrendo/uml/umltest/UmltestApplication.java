@@ -7,7 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class UmltestApplication {
 
 	public static void main(String[] args) {
-		
+
 
 		SpringApplication.run(UmltestApplication.class, args);
 	}
